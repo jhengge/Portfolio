@@ -1,4 +1,4 @@
-#SQL query with common table expression: 
+SQL query with common table expression: 
 
 WITH category_name_cte (film_id, rating, category_name) AS
   (SELECT A.film_id,
